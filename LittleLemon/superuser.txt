@@ -1,0 +1,3 @@
+username: stefan
+email: stefan@example.com
+password: 123
